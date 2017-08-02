@@ -1,0 +1,2 @@
+This is my new file #1
+It has two lines. This is the second line by the way. End of file.
